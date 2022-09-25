@@ -1,0 +1,25 @@
+Assignment Number: 1
+
+Assignment Title: Reflections, ideas and planning.
+
+1. Amongst my fellow students two students report concerned me and I have few corrections which bothered me,
+I would like to list them and want to describe issues related to those reports  ,
+
+(i) As one of the student said about the banking application, I think only 30% of the solution will be provided and that will happen 
+only from dollar to Indian currency conversion and all the banks are government authorised, I don’t think the banks are going to 
+give the authority to show up the resultant page of total tax deductions until and unless the user or 
+a customer of the particular bank would login. So, the solution could be a third-party interface which will 
+almost be like a client has to login and give a input and the background work should be regularly interacting with banks to get the 
+calculations of the particular tax. After facing problem, I am discussing this issue.
+
+2. Maintaining the free app would be create a fraud case, And there are scam users to give false promotions. Just to avoid this 
+type of situations there should be given genuine identification to the developers of any app or web page.
+
+3. The most excellent and high UI/UX based website, or an app is twitter and youtube . because apps maintain good graphics and they 
+are easy to understand by everyone.
+
+4.App for online table reservations is one of the best food app ideas. If you are running the restaurant, then building the table 
+reservations app can help you function smoothly and predict how many customers may come to your place. According to this, you can 
+prepare food that will ultimately reduce the wastage of food, saving money and time. This mobile app idea for the restaurant business
+will represent your food ordering services and help you attract more and more customers. By building this app, you can allow customers 
+to book a table location, time slot, date, food, and more.
